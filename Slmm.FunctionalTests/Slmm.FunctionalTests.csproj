@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\slmm.LawnMowing.Api\slmm.LawnMowing.Api.csproj" />
-    <ProjectReference Include="..\slmm.LawnMowing\SmartLawnMowing.Domain.csproj" />
+    <ProjectReference Include="..\SmartLawnMowing.Domain\SmartLawnMowing.Domain.csproj" />
   </ItemGroup>
 
 </Project>

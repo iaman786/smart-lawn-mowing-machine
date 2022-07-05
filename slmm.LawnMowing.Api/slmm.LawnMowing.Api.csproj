@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\slmm.LawnMowing\SmartLawnMowing.Domain.csproj" />
+    <ProjectReference Include="..\SmartLawnMowing.Domain\SmartLawnMowing.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -29,7 +29,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\slmm.LawnMowing.Api\slmm.LawnMowing.Api.csproj" />
-    <ProjectReference Include="..\slmm.LawnMowing\SmartLawnMowing.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
